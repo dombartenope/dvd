@@ -5,7 +5,7 @@ canvas.height = innerHeight;
 
 const c = canvas.getContext("2d");
 
-//rectangles
+// rectangles
 // c.fillStyle = "rgba(255, 0, 0, 0.5)";
 // c.fillRect(100, 100, 100, 100);
 // c.fillStyle = "rgba(0, 255, 0, 0.5)";
